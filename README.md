@@ -4,7 +4,4 @@
 >
 > -  **Matéria:** Sistemas Digitais
 >
-
-
-
-
+> **Author: Silas Vasconcelos Cruz**
